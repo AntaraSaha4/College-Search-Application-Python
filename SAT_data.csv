@@ -1,0 +1,484 @@
+College Name,SAT Math,SAT R/W,Admission Rate
+Adelphi University,530-630,530-620,75%
+Agnes Scott College,520-620,560-670,68%
+Albion College,470-570,460-590,75%
+Alfred University,490-600,480-600,64%
+Allegheny College,560-670,580-680,73%
+American University,590-680,630-710,39%
+Amherst College,710-790,700-760,12%
+Appalachian State University,540-630,560-640,80%
+Arizona State University,550-670,550-650,88%
+Assumption College,530-610,540-610,81%
+Auburn University,570-670,590-650,85%
+Augustana College,550-640,540-640,57%
+Austin College,550-650,560-660,49%
+Babson College,650-750,620-700,27%
+Ball State University,510-590,510-610,69%
+Bard College,590-700,630-718,59%
+Barnard College,670-770,680-748,14%
+Bates College,590-710,620-710,14%
+Baylor University,590-680,600-680,68%
+Belmont University,540-640,580-660,83%
+Beloit College,540-660,520-660,58%
+Bennington College,580-670,660-730,60%
+Bentley University,600-700,580-660,58%
+Berea College,540-643,560-620,33%
+Berry College,525-610,540-630,77%
+Binghamton University,650-740,640-710,43%
+Birmingham Southern College,540-650,570-660,60%
+Bloomsburg University of Pennsylvania,480-570,480-580,89%
+Boise State University,510-600,520-610,77%
+Boston College,670-770,660-730,26%
+Boston University,670-780,640-720,20%
+Bowdoin College,670-770,660-740,84%
+Bowling Green State University,510-600,510-610,75%
+Bradley University,540-650,540-630,73%
+Brandeis University,680-790,640-720,34%
+Brigham Young University-Provo,590-710,610-700,69%
+Brown University,730-790,710-770,95%
+Bryant University,560-650,560-630,76%
+Bryn Mawr College,610-760,630-740,38%
+Bucknell University,610-710,610-690,38%
+Butler University,570-660,580-660,76%
+"Cal Poly, Pomona",510-640,500-610,65%
+"Cal Poly, San Luis Obispo",610-720,610-690,38%
+California Institute of Technology,790-800,740-780,96%
+"California State University, Fresno",440-540,450-560,90%
+"California State University, Fullerton",500-590,500-590,68%
+"California State University, Long Beach",510-620,510-620,42%
+Canisius College,520-620,520-620,76%
+Carleton College,670-770,660-750,21%
+Carnegie Mellon University,760-800,700-760,17%
+Case Western Reserve University,700-790,640-730,30%
+Catholic University of America,550-655,580-670,82%
+Central Michigan University,500-600,500-610,69%
+Centre College,540-680,560-660,72%
+Chapman University,580-680,590-670,58%
+Christopher Newport University,530-620,560-650,76%
+Citadel Military College of South Carolina,510-600,520-610,80%
+Claremont McKenna College,670-770,660-730,13%
+Clark University,570-670,580-680,47%
+Clarkson University,590-690,560-660,78%
+Clemson University,600-700,610-690,62%
+Coastal Carolina University,510-580,510-600,70%
+Colby College,700-780,680-740,10%
+Colgate University,650-750,650-720,27%
+College of Charleston,520-600,550-640,74%
+College of Saint Benedict,510-570,560-630,84%
+College of the Holy Cross,650-720,640-710,38%
+College of William and Mary,640-750,660-740,42%
+Colorado College,610-740,630-720,14%
+Colorado School of Mines,650-740,620-700,55%
+Colorado State University,530-640,540-640,84%
+Columbia University,750-800,720-770,96%
+Connecticut College,660-730,650-720,38%
+Cooper Union for the Advancement of Science and Art,700-790,630-710,18%
+Cornell College,520-630,548-650,82%
+Cornell University,720-790,680-750,11%
+Creighton University,570-670,570-670,77%
+CUNY Bernard M Baruch College,590-700,560-650,41%
+CUNY Brooklyn College,520-600,500-580,50%
+CUNY City College,530-650,520-610,51%
+CUNY Hunter College,560-650,530-610,40%
+CUNY Lehman College,480-540,480-540,42%
+Dartmouth College,730-790,710-770,93%
+Davidson College,650-740,650-720,20%
+Denison University,620-740,600-690,28%
+DePaul University,530-640,530-640,70%
+DePauw University,560-710,550-650,68%
+Dickinson College,600-690,620-690,52%
+Drake University,550-680,560-660,68%
+Drew University,540-640,560-660,73%
+Drexel University,590-700,590-680,77%
+Duke University,750-800,720-770,95%
+Duquesne University,550-630,570-640,77%
+Earlham College,550-670,560-670,59%
+East Carolina University,500-570,500-590,88%
+Eastern Connecticut State University,490-580,500-600,70%
+Eastern Kentucky University,470-580,480-590,98%
+Eckerd College,530-625,560-660,69%
+Elizabethtown College,540-640,540-640,86%
+Elon University,560-660,580-660,72%
+Embry-Riddle Aeronautical University,560-670,560-660,61%
+Emerson College,580-690,610-690,41%
+Emory University,700-790,680-740,19%
+Endicott College,540-620,560-620,70%
+Fairfield University,590-670,600-670,56%
+Fitchburg State University,480-560,490-580,88%
+Florida Agricultural and Mechanical University,510-560,520-590,33%
+Florida Atlantic University,520-600,540-620,75%
+Florida Gulf Coast University,520-590,540-620,77%
+Florida Institute of Technology,570-670,560-660,70%
+Florida International University,540-620,570-640,58%
+Florida Southern College,550-635,560-650,50%
+Florida State University,600-670,620-680,32%
+Fordham University,610-710,620-700,53%
+Franklin and Marshall College,620-760,590-680,37%
+Franklin W. Olin College of Engineering,755-800,695-770,16%
+Furman University,620-700,630-700,65%
+George Mason University,540-650,560-650,89%
+George Washington University,630-730,640-720,43%
+Georgetown College,470-610,500-580,72%
+Georgetown University,690-790,690-760,17%
+Georgia College,540-605,560-640,86%
+Georgia Institute of Technology,700-790,670-740,21%
+Georgia Southern University,490-570,503-600,91%
+Georgia State University,470-580,480-580,67%
+Gettysburg College,630-710,640-700,48%
+Gonzaga University,580-680,580-670,73%
+Goucher College,490-600,500-630,79%
+Grinnell College,683-788,670-750,19%
+Grove City College,550-690,580-690,79%
+Gustavus Adolphus College, , ,71%
+Hamilton College,700-760,680-750,18%
+Hampshire College, , ,59%
+Hanover College,530-610,530-620,69%
+Harvard University,740-800,720-780,94%
+Harvey Mudd College,770-800,720-770,18%
+Haverford College,690-770,670-750,18%
+Hendrix College,560-660,600-680,71%
+High Point University,530-620,540-620,77%
+Hillsdale College,640-723,650-740,36%
+Hobart William Smith Colleges,590-680,590-680,62%
+Hofstra University,580-670,580-660,69%
+Hope College,540-650,550-660,78%
+Howard University,550-620,580-640,39%
+Illinois Institute of Technology,630-720,570-670,61%
+Illinois State University,510-610,510-610,81%
+Illinois Wesleyan University,550-660,550-640,57%
+Indiana University Bloomington,560-680,560-670,80%
+Indiana University-Purdue University-Indianapolis,500-590,500-600,79%
+Iowa State University,530-680,480-630,88%
+Ithaca College,570-650,590-670,76%
+James Madison University,550-630,570-650,80%
+John Carroll University,530-630,530-630,88%
+Johns Hopkins University,760-800,720-770,99%
+Juniata College,550-650,570-670,71%
+Kalamazoo College,570-680,580-680,74%
+Kansas State University, , ,95%
+Kent State University at Kent,510-600,510-610,84%
+Kenyon College,620-730,660-730,37%
+Kettering University,600-700,580-660,74%
+Knox College,540-660,540-660,71%
+La Salle University,480-580,500-600,76%
+Lafayette College,630-730,620-710,36%
+Lake Forest College,540-650,545-640,58%
+Lawrence University,590-710,600-700,69%
+Lehigh University,650-740,610-693,50%
+Lewis & Clark College,580-680,618-700,81%
+Linfield University,520-600,530-610,80%
+Louisiana State University,540-640,550-660,73%
+Loyola Marymount University,600-700,610-690,50%
+Loyola University Chicago,560-670,570-660,71%
+Loyola University Maryland,560-658,580-670,80%
+Lycoming College,500-600,510-610,65%
+Macalester College,640-730,640-720,39%
+Manhattan College,520-610,510-610,78%
+Marist College,560-650,570-650,55%
+Marquette University,580-680,580-680,82%
+Marshall University,460-560,480-590,89%
+Massachusetts College of Liberal Arts,480-600,480-580,88%
+Massachusetts Institute of Technology,780-800,730-780,00%
+Massachusetts Maritime Academy,520-595,510-590,92%
+McDaniel College,490-600,490-610,81%
+Mercer University,580-670,600-670,78%
+Mercyhurst University,520-610,510-610,88%
+Merrimack College,479-638,481-638,82%
+Messiah College,530-650,550-660,78%
+Miami University,580-690,580-680,92%
+Michigan State University,550-660,550-640,76%
+Michigan Technological University,590-690,570-660,70%
+Middlebury College,670-770,670-750,22%
+Millersville University of Pennsylvania,490-580,490-590,85%
+Millsaps College,530-630,560-650,70%
+Milwaukee School of Engineering,600-700,580-670,60%
+Mississippi State University,530-640,520-630,80%
+Missouri University of Science and Technology,633-718,595-670,81%
+Monmouth University,520-600,520-610,79%
+Montana State University,540-660,550-660,81%
+Montclair State University,490-570,490-590,83%
+Moravian College,510-590,520-600,79%
+Morehouse College,500-580,500-600,74%
+Mount Holyoke College,640-770,630-730,52%
+Muhlenberg College,570-670,600-680,62%
+Murray State University,510-620,510-620,77%
+New College of Florida,550-670,610-705,70%
+New Jersey Institute of Technology,610-720,590-670,66%
+New Mexico Institute of Mining and Technology,580-700,570-670,97%
+New Mexico State University-Main Campus,470-570,480-580,63%
+New York Institute of Technology,540-660,520-630,75%
+New York University,700-800,670-740,21%
+Niagara University,505-600,510-600,92%
+North Carolina State University,620-720,610-690,46%
+North Dakota State University-Main Campus,520-620,508-623,94%
+Northeastern University,720-790,690-750,20%
+Northern Arizona University,520-610,520-620,82%
+Northern Michigan University,470-580,480-600,67%
+Northwestern University,730-790,700-760,95%
+Norwich University,520-610,520-620,74%
+Oakland University,490-600,490-610,81%
+Oberlin College,620-720,650-730,35%
+Occidental College,630-730,640-730,41%
+Ohio State University,620-740,590-690,68%
+Ohio University,520-620,530-630,87%
+Ohio Wesleyan University,558-660,550-670,68%
+Oklahoma State University,510-620,510-630,67%
+Old Dominion University,470-570,490-600,95%
+Oregon Institute of Technology,520-610,520-620,97%
+Oregon State University,540-660,540-650,84%
+Pennsylvania State University,580-680,570-660,54%
+Pepperdine University,600-720,600-690,42%
+Pitzer College,670-770,655-740,17%
+Pomona College,700-790,690-750,90%
+Portland State University,490-580,510-610,95%
+Presbyterian College,510-590,520-610,71%
+Princeton University,740-800,710-770,89%
+Providence College,560-650,575-660,54%
+Purdue University,600-740,590-690,67%
+Quinnipiac University,540-630,540-630,82%
+Ramapo College of New Jersey,520-610,510-610,67%
+Randolph-Macon College,510-598,520-620,71%
+Reed College,640-760,670-740,39%
+Rensselaer Polytechnic Institute,680-780,620-720,57%
+Rhode Island School of Design,640-770,610-700,27%
+Rhodes College,600-680,620-720,51%
+Rice University,750-800,710-770,11%
+Ripon College,490-580,480-559,74%
+Roanoke College,510-610,530-630,78%
+Rochester Institute of Technology,620-730,600-690,74%
+Roger Williams University,530-620,540-620,86%
+Rollins College,560-660,560-670,61%
+Rose-Hulman Institute of Technology,650-760,610-700,77%
+Rowan University,510-620,510-620,79%
+Rutgers University-Camden,490-580,490-590,76%
+Rutgers University-New Brunswick,600-730,580-680,67%
+Rutgers University-Newark,510-590,500-580,74%
+Sacred Heart University,570-630,570-630,66%
+Saint Anselm College,560-650,580-650,75%
+Saint Johns University,480-580,465-615,81%
+Saint Joseph's University,540-640,560-650,80%
+Saint Louis University,580-690,580-680,56%
+Saint Mary's College,520-610,540-650,82%
+Saint Mary's College of California,530-623,540-630,77%
+Saint Michael's College,560-630,570-650,88%
+Salem State University,500-560,500-590,87%
+Salisbury University,533-630,560-638,78%
+Salve Regina University,540-610,560-630,75%
+Sam Houston State University,480-550,490-570,92%
+Samford University,520-600,540-640,84%
+San Diego State University,540-660,550-640,37%
+San Francisco State University,460-560,470-570,84%
+San Jose State University,520-640,510-620,67%
+Santa Clara University,640-750,630-700,51%
+Sarah Lawrence College,580-690,640-720,55%
+Scripps College,650-750,670-730,35%
+Seattle University,560-670,570-660,83%
+Seton Hall University,570-660,580-650,78%
+Siena College,530-620,530-620,81%
+Simmons University,520-610,540-640,83%
+Skidmore College,610-703,610-700,32%
+Smith College,655-770,670-740,37%
+Soka University of America,620-760,560-650,52%
+Sonoma State University,480-580,500-590,89%
+South Dakota State University,500-670,500-630,89%
+Southern Connecticut State University,440-540,470-570,80%
+Southern Methodist University,620-740,630-710,53%
+Southwestern University,540-640,570-660,49%
+Spelman College,510-580,540-620,53%
+St Bonaventure University,520-610,510-610,76%
+St John's University-New York,540-660,540-640,75%
+St Lawrence University,590-680,590-680,47%
+St Olaf College,570-700,580-690,51%
+St. John's College (MD),540-710,590-730,61%
+St. John's College (NM),540-700,640-730,69%
+St. Mary's College of Maryland,520-620,550-660,79%
+Stanford University,720-800,700-770,96%
+SUNY at New Paltz,540-630,530-630,62%
+Stetson University,530-625,570-660,81%
+Stevens Institute of Technology,680-770,640-710,53%
+Stockton University,503-590,510-600,77%
+Stonehill College,560-640,560-650,69%
+Stony Brook University,630-750,600-690,49%
+Suffolk University,500-590,510-620,86%
+SUNY at Albany,540-620,540-620,57%
+SUNY at Fredonia,500-600,500-610,72%
+SUNY at Purchase College,540-620,560-660,74%
+SUNY College at Brockport,510-580,490-580,58%
+SUNY College at Geneseo,570-660,570-650,61%
+SUNY College at Oswego,510-590,510-600,69%
+SUNY College at Plattsburgh,450-560,460-570,59%
+SUNY College at Potsdam,530-610,538-630,72%
+SUNY College of Environmental Science and Forestry,560-650,570-650,60%
+SUNY Cortland,550-610,550-610,52%
+SUNY Oneonta,520-600,520-600,56%
+Susquehanna University,530-610,540-630,87%
+Swarthmore College,705-790,690-750,93%
+Syracuse University,580-700,580-670,69%
+Temple University,540-640,550-640,71%
+Tennessee Technological University,510-620,520-650,80%
+Texas A & M University-College Station,580-700,580-680,63%
+Texas Christian University,550-660,560-660,48%
+Texas State University,500-580,510-600,85%
+The College of New Jersey,570-670,570-650,51%
+The College of Wooster,560-680,580-680,65%
+The University of Montana,510-610,540-630,96%
+The University of Tennessee-Chattanooga,500-590,520-610,83%
+The University of Tennessee-Knoxville,560-653,580-650,78%
+The University of Texas at Arlington,530-630,520-620,88%
+The University of Texas at Austin,600-750,610-720,32%
+The University of Texas at Dallas,620-740,600-710,79%
+The University of the South,560-670,600-670,56%
+Towson University,510-590,530-610,79%
+Transylvania University,510-630,560-640,92%
+Trinity College,660-740,630-710,36%
+Trinity University,630-720,630-710,34%
+Truman State University,530-650,550-680,72%
+Tufts University,700-780,680-750,16%
+Tulane University,690-770,650-730,11%
+Union College,610-720,600-680,41%
+United States Air Force Academy,620-730,600-700,13%
+United States Coast Guard Academy,610-710,610-690,13%
+United States Merchant Marine Academy, , ,16%
+United States Military Academy,600-740,610-700,43%
+United States Naval Academy,620-740,610-710,55%
+University at Buffalo,580-670,560-640,67%
+University of Akron Main Campus,490-620,470-600,77%
+University of Alabama,530-670,540-660,80%
+University of Alabama at Birmingham,530-660,560-668,67%
+University of Arizona,540-690,550-660,85%
+University of Arkansas,540-640,550-640,78%
+"University of California, Berkeley",650-790,640-740,18%
+"University of California, Davis",580-730,560-670,46%
+"University of California, Irvine",615-750,600-700,30%
+"University of California, Los Angeles",640-780,650-740,14%
+"University of California, Merced",470-570,470-570,85%
+"University of California, Riverside",530-660,530-630,66%
+"University of California, San Diego",640-770,620-710,38%
+"University of California, Santa Barbara",610-760,620-720,37%
+"University of California, Santa Cruz",570-700,580-670,65%
+University of Central Florida,570-670,590-670,45%
+University of Chicago,770-800,730-770,99%
+University of Cincinnati,560-680,560-650,76%
+University of Colorado Boulder,560-680,570-670,84%
+University of Connecticut,590-710,580-680,56%
+University of Dallas,550-660,580-690,54%
+University of Dayton,510-610,520-610,81%
+University of Delaware,580-670,590-670,63%
+University of Denver,580-680,590-680,61%
+University of Florida,640-740,650-720,31%
+University of Georgia,600-700,620-700,48%
+University of Houston,560-660,560-650,63%
+University of Idaho,490-600,500-620,74%
+University of Illinois at Chicago,520-640,510-610,73%
+University of Illinois at Urbana-Champaign,620-770,590-700,63%
+University of Iowa,550-660,560-650,84%
+University of Kansas,530-670,540-650,91%
+University of Kentucky,530-640,540-640,96%
+University of Louisiana at Lafayette,490-590,510-620,67%
+University of Louisville,520-640,530-640,66%
+University of Maine,520-620,530-630,92%
+University of Mary Washington,530-610,560-660,74%
+"University of Maryland, Baltimore County",570-680,580-670,69%
+"University of Maryland, College Park",640-760,630-720,49%
+University of Massachusetts Amherst,600-710,600-680,65%
+University of Massachusetts Boston,510-600,500-610,80%
+University of Massachusetts Lowell,580-670,570-650,75%
+University of Memphis,490-590,500-610,85%
+University of Miami,630-720,620-700,33%
+University of Michigan,680-780,660-780,26%
+University of Michigan-Dearborn,550-670,540-650,68%
+University of Minnesota-Duluth,520-640,530-620,79%
+University of Minnesota-Morris,530-630,510-620,65%
+University of Minnesota-Twin Cities,640-760,600-700,70%
+University of Mississippi,500-610,510-620,88%
+University of Missouri-Columbia,550-660,560-660,82%
+University of Nebraska-Lincoln,560-670,550-650,78%
+University of Nevada-Las Vegas,510-630,520-620,81%
+University of Nevada-Reno,530-630,530-630,87%
+University of New Hampshire,540-640,550-640,85%
+University of New Mexico,510-620,520-630,54%
+University of North Carolina at Asheville,520-620,540-650,79%
+University of North Carolina at Chapel Hill,630-750,640-720,24%
+University of North Carolina at Charlotte,550-640,550-640,80%
+University of North Carolina at Greensboro,490-570,490-590,88%
+University of North Carolina Wilmington,570-650,590-660,68%
+University of North Dakota,510-610,500-600,87%
+University of North Florida,510-600,530-630,80%
+University of North Georgia,520-590,540-620,77%
+University of North Texas,520-610,530-630,84%
+University of Northern Colorado,490-590,490-610,88%
+University of Northern Iowa,500-590,510-620,79%
+University of Notre Dame,710-790,690-760,19%
+University of Oklahoma,540-650,560-650,83%
+University of Oregon,540-640,550-650,83%
+University of Pennsylvania,750-800,710-770,96%
+University of Pittsburgh,620-720,623-700,64%
+University of Portland,560-660,570-660,77%
+University of Puget Sound,560-660,570-682,86%
+University of Redlands,530-620,540-630,77%
+University of Rhode Island,540-630,550-630,76%
+University of Richmond,650-750,630-710,31%
+University of Rochester,670-790,640-710,35%
+University of San Diego,570-670,590-670,59%
+University of San Francisco,570-670,570-660,70%
+University of Scranton,540-640,560-640,80%
+University of South Carolina,560-670,580-670,68%
+University of South Dakota,500-625,500-620,91%
+University of South Florida,570-660,590-660,49%
+University of Southern California,680-790,660-740,16%
+University of St Thomas,570-670,560-670,89%
+University of Tampa,550-630,550-620,45%
+University of the Pacific,540-680,540-660,71%
+University of Toledo,495-610,490-600,95%
+University of Tulsa,540-680,540-650,69%
+University of Utah,560-680,570-670,79%
+University of Vermont,570-670,590-680,71%
+University of Virginia-Main Campus,660-770,660-740,23%
+University of Washington,610-757,590-700,56%
+University of Washington-Bothell Campus,520-630,500-620,74%
+University of Wisconsin-Eau Claire,530-640,510-620,90%
+University of Wisconsin-La Crosse,540-635,540-635,82%
+University of Wisconsin-Madison,650-770,610-690,57%
+University of Wyoming,520-620,520-620,94%
+Ursinus College,570-660,580-670,80%
+Valparaiso University,530-640,540-640,87%
+Vanderbilt University,750-800,720-770,12%
+Vassar College,680-770,680-750,25%
+Villanova University,670-750,650-710,31%
+Virginia Commonwealth University,520-610,540-640,91%
+Virginia Military Institute,530-620,540-640,60%
+Virginia Tech,580-690,590-680,67%
+Wabash College,570-670,550-650,63%
+Wagner College,530-620,520-630,70%
+Wake Forest University,650-750,640-720,32%
+Warren Wilson College,420-420,620-660,85%
+Washington & Jefferson College,510-630,530-640,90%
+Washington and Lee University,680-760,670-740,24%
+Washington College,520-630,550-650,80%
+Washington State University,510-600,510-610,80%
+Washington University in St. Louis,760-800,720-760,16%
+Wayne State University,500-600,500-600,68%
+Wellesley College,670-770,680-750,20%
+Wentworth Institute of Technology,550-650,540-630,94%
+Wesleyan University,670-770,670-750,21%
+West Chester University of Pennsylvania,500-580,510-600,86%
+West Virginia University,510-620,520-630,84%
+Western Carolina University,510-590,510-620,48%
+Western Michigan University,510-610,500-610,85%
+Western Washington University,530-620,550-650,94%
+Westmont College,540-680,570-690,70%
+Wheaton College (IL),600-730,610-720,87%
+Wheaton College (MA),570-670,590-680,77%
+Whitman College,610-720,620-710,54%
+Whittier College,520-600,530-620,72%
+Whitworth University,530-630,520-640,91%
+Wichita State University,520-630,510-630,55%
+Widener University,520-610,515-600,75%
+Willamette University,560-670,570-690,80%
+Williams College,710-790,700-770,15%
+Winthrop University,460-560,480-590,64%
+Wofford College,570-660,590-668,53%
+Worcester Polytechnic Institute, , ,59%
+Xavier University,520-620,540-630,81%
+Yale University,740-800,720-780,94%
+Yeshiva University,550-710,590-700,67%
